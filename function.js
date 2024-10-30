@@ -1,14 +1,17 @@
+//function decaration
 function myFunction(a,b){
     return a+b
 }
 
-console.log(myFunction(3,4))
+console.log(myFunction(3,4))  //function call
 
+//Arithmatic Operation by function
 function myFunc(x,y,z){
     return x+y-z
 }
 console.log(myFunc(8,2,6))
 
+//Square Of a number
 function square(num){
     return num**num
 }
